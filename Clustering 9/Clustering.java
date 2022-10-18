@@ -24,6 +24,7 @@ class Clustering {
 				break;
 			}
 		}
+		br.close();
 		System.out.println("Points");
 		for(int i = 0; i < totalPoints - 1; i++) {
 			for(int j = 0; j < dimensions; j++) {
