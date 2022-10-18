@@ -62,11 +62,17 @@ class HierarchicalClustering {
 
 			int indexI = 0, indexJ = 0;  
 			for(int x = 0; x < matrix.length; x++) {
-				for(int x = 0; y <= x; y++) {
-					tempMatrix[indexI][indexJ]
+				if(x == j) continue;
+				for(int y = 0; y <= x; y++) {
+					if(y == j) continue;
+					tempMatrix[indexI][indexJ] = matrix[x][y];
+					indexJ++;
 				}
+				indexI++;
 			}
+			tempMatrix[i][0] = temp[0][i] = cluster;
 
+			
 		}
 	}
 }
