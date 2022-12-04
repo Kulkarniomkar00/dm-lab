@@ -1,0 +1,11 @@
+Day,Temp,Humidity,Cloud,Rain
+1,High,High,Yes,Yes
+2,High,High,No,No
+3,Low,High,No,No
+4,Medium,Low,No,No
+5,High,Low,Yes,Yes
+6,Medium,Low,Yes,Yes
+7,Low,Low,Yes,No
+8,Low,Low,No,No
+9,Low,High,Yes,Yes
+10,Medium,Low,No,No

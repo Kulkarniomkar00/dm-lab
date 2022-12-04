@@ -1,0 +1,15 @@
+Day,Outlook,Temp,Humidity,Wind,PlayGame
+1,Sunny,Hot,High,Weak,No
+2,Sunny,Hot,High,Strong,No
+3,Overcast,Hot,High,Weak,Yes
+4,Rain,Mild,High,Weak,Yes
+5,Rain,Cool,Normal,Weak,Yes
+6,Rain,Cool,Normal,Strong,No
+7,Overcast,Cool,Normal,Strong,Yes
+8,Sunny,Mild,High,Weak,No
+9,Rain,Cool,Normal,Weak,Yes
+10,Sunny,Mild,Normal,Weak,Yes
+11,Mil,Mild,Normal,Strong,Yes
+12,Mil,Mild,High,Strong,Yes
+13,Mil,Mild,Normal,Weak,Yes
+14,Mil,Mild,High,Strong,No
